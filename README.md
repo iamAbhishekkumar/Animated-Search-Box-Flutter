@@ -1,7 +1,7 @@
 # Animated-Search-Box-Flutter
 ![](https://img.shields.io/badge/Dart-Flutter-blue.svg?style=for-the-badge&logo=flutter)
 ----
-This is file will return a aniamted search box. You can add "onChanged" and many changes to code before using it.
+This is file will return a animated search box. You can add "onChanged" and many changes to code before using it.
 
 
 ### Size issue :
