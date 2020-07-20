@@ -3,6 +3,7 @@
 ----
 This is file will return a aniamted search box. You can add "onChanged" and many changes to code before using it.
 
+
 ### Size issue :
 The size of handle bar is hard coded so to resize the search icon place it inside a fitted box.
 ```
@@ -25,3 +26,4 @@ class _MyAppState extends State<MyApp> {
   }
 }
 ```
+![](box.gif)
